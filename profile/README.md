@@ -1,11 +1,7 @@
 # Dash Network
 
-<!--
-We Do:
+## We Do:
 - Dash Client
 - HCTeams
 - Gaming
 - Block Game Coding
-
-
--->
